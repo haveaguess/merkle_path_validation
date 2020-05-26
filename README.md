@@ -2,7 +2,7 @@
 # Assumptions
 
 
-It is assumed there is a typo in the specification and that this sentance in the spec is supposed
+It is assumed there is a typo in the specification and that this sentence in the spec is supposed
 to end "in the next operation":
 
     The output of each operation is `Operator(Prefix + message + Postfix)`, which will
