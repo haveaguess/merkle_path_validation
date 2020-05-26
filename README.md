@@ -26,8 +26,7 @@ https://www.python.org/dev/peps/pep-0008/
 continued to follow your existing style
 
 Originally did all the concatenations pre-hash as little-endian (since many examples of Merkle tree/proof work were doing similar online)
-but then after lots of frustration I found this implementation in github that exactly matches the problem and they
-were doing all their work in big-endian : https://github.com/aliminaei/merkle_tree_verify/blob/master/main.py
+but then after lots of frustration I found this implementation in github that exactly matches the problem and they were doing all their concatenations in big-endian : https://github.com/aliminaei/merkle_tree_verify/blob/master/main.py
 
 
 
