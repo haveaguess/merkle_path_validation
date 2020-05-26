@@ -1,8 +1,6 @@
 import logging
-import binascii
 import hashlib
 import json
-import codecs
 
 
 
